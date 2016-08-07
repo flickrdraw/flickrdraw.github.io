@@ -20584,7 +20584,7 @@ ReactDOM.render(React.createElement(DrawingBox, null), document.getElementById('
 var Base58 = require('base58');
 
 module.exports = {
-    flickrApi: 'http://localhost:3000/api/',
+    flickrApi: 'http://tutoreach.novakov.io/backend/flickr/',
     retrievePictures: function (prompt, callback) {
         $.ajax({
             type: "GET",
