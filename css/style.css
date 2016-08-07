@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.drawingForm {
+  text-align: center;
+}
+
+.drawingForm input {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+
+.btn-facebook {
+  float:left;
+}
+
+.btn-twitter {
+  float:right;
+}
+
+
+.sharingButtons {
+  margin-top: 1em;
+}
